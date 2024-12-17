@@ -4,6 +4,7 @@
 - Easy to modify and customise it for your own location (just 300 lines of python) - [Github repo](https://github.com/vizagite/calendar)
 - Plot with focus on sunrise, noon, sunset, twilights, full moons, eclipses, major meteor showers and Sundays (yay)
 - Get Major Indian cities Calendars at [Imgur](https://imgur.com/a/qBfTGRh) or [Github](https://github.com/vizagite/calendar/tree/main/results)
+- Inspired by [u/imluke](https://www.reddit.com/user/imluke) [design](https://www.sunlightcalendar.com/design) and made with [astral package](https://github.com/sffjunkie/astral)
 
 ### How to read
 
