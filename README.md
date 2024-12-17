@@ -1,20 +1,20 @@
 ### 2025 Calendar
 
 - Polar design for major Indian cities
-- Easy to modify and customise it for your own location (just 300 lines of python)
+- Easy to modify and customise it for your own location (just 300 lines of python) - [Github repo](https://github.com/vizagite/calendar)
 - Plot with focus on sunrise, noon, sunset, twilights, full moons, eclipses, major meteor showers and Sundays (yay)
 
 ### How to read
 
 ![Calendar instruction](vizag_explain.png)
 
-All days start at center, and each day ends on the outer edge of circle at that day's angle (365 days adjusted in 360 degrees),
+All days start at center, and each day progresses straight outwards to end on the circle outer edge (365 days adjusted in 360 degrees),
 
 twilights are marked for morning and evenings (helpful in catching space stations), 
 
 full moons have gray circle and lunar eclipse is marked as halo, 
 
-three major meteor showers of quadrantids, perseids, and geminids are shown as lines at peak and few small lines during their duration, 
+three major meteor showers of quadrantids, perseids, and geminids are shown as three lines at peak and few small lines during their duration of days, 
 
 exact noon for your location as a slightly yellow shade line,
 
