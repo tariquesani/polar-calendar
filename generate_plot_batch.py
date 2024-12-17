@@ -159,7 +159,7 @@ for city_name, city_coordinates in zip(city_names, cities_coordinates):
 
     with open(f"{city_name}_data.json", "w") as f:
         json.dump(rounded_data, f, indent=4)
-        
+
     # https://www.timeanddate.com/eclipse/2025
     total_lunar_eclipse_day_index = 250 #7 sep in 365 days
 
@@ -346,7 +346,7 @@ for city_name, city_coordinates in zip(city_names, cities_coordinates):
     ax.text(0.5, 1.18, city_name, ha='center', va='center', fontproperties=font_system, transform=ax.transAxes)
     font_system = FontProperties(fname='Arvo-Regular.ttf', size=20)
     coordinates_str = f"{city_coordinates[0]}°N, {city_coordinates[1]}°E"
-    ax.text(0.5, 1.14, city_coordinates, ha='center', va='center', fontproperties=font_system, transform=ax.transAxes)
+    ax.text(0.5, 1.14, coordinates_str, ha='center', va='center', fontproperties=font_system, transform=ax.transAxes)
     font_system = FontProperties(fname='Arvo-Regular.ttf', size=48)
     ax.text(0.5, 1.23, "2025", ha='center', va='center', fontproperties=font_system, transform=ax.transAxes)
 

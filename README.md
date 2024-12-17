@@ -8,17 +8,17 @@
 
 ![Calendar instruction](vizag_explain.png)
 
-All days start at center, and each day progresses straight outwards to end on the circle outer edge (365 days adjusted in 360 degrees),
+- All days start at center, and each day progresses straight outwards to end on the circle outer edge (365 days adjusted in 360 degrees),
 
-twilights are marked for morning and evenings (helpful in catching space stations), 
+- twilights are marked for morning and evenings (helpful in catching space stations), 
 
-full moons have gray circle and lunar eclipse is marked as halo, 
+- full moons have gray circle and lunar eclipse is marked as halo, 
 
-three major meteor showers of quadrantids, perseids, and geminids are shown as three lines at peak and few small lines during their duration of days, 
+- three major meteor showers of quadrantids, perseids, and geminids are shown as three lines at peak and few small lines during their duration of days, 
 
-exact noon for your location as a slightly yellow shade line,
+- exact noon for your location as a slightly yellow shade line,
 
-and finally only Sunday dates are marked on outer edge for simplicity (do the math!!)
+- and finally only Sunday dates are marked on outer edge for simplicity (do the math!!)
 
 Do share with other friends, print for your room or gift it. Advance happy new year!
 
