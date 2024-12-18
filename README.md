@@ -24,6 +24,11 @@
 
 Do share with other friends, print for your room or gift it. Advance happy new year!
 
+### License
+
+This calendar design is released under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. You are free to use, modify, and distribute this design for any purpose, without any restrictions.
+Feel free to incorporate it into your projects, share it with others, or use it in any way you see fit!
+
 #### Support
 
 If you love the design and want to support me, you can buy me a book :)

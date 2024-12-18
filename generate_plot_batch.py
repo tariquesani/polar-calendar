@@ -35,7 +35,6 @@ months = range(1, 13)
 days_in_month = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
 for city_name, city_coordinates in zip(city_names, cities_coordinates):
-    if city_name !="Ahmedabad": continue
     lat, lon = city_coordinates
     city = LocationInfo(city_name, 'India', 'Asia/Kolkata', lat, lon)
     sunrise_times = []
