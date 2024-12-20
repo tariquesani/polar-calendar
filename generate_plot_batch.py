@@ -30,12 +30,14 @@ city_names = [
 
 cities_coordinates = [(28.5909, 77.2183), (19.2066, 72.9081), (12.9774, 77.5950), (22.5684, 88.3413), (18.4914, 73.8371), (17.4399, 78.4302), (13.0507, 80.2512), (26.8520, 80.97136), (30.7469, 76.7828), (26.9047, 75.8094), (23.0169, 72.5736), (21.1542, 79.0821)]
 
+# city_names = ['']
+# cities_coordinates = [()]
+
 year = 2025
 months = range(1, 13)
 days_in_month = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
 for city_name, city_coordinates in zip(city_names, cities_coordinates):
-    if city_name !="Ahmedabad": continue
     lat, lon = city_coordinates
     city = LocationInfo(city_name, 'India', 'Asia/Kolkata', lat, lon)
     sunrise_times = []
