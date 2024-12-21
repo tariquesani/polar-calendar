@@ -101,10 +101,10 @@ for day_index in closest_full_moon_days:
     ax.scatter(angle, marker_radius, s=marker_size, color='#A1A2A6', marker='o', zorder=4)
 
 angle = total_lunar_eclipse_day_index / num_days * 2 * np.pi
-halo_radius = marker_radius
-halo = Circle((angle, halo_radius), radius=0.009, color='white', alpha=0.7, zorder=4)
-ax.add_patch(halo)
-ax.scatter(angle, marker_radius, s=marker_size, color='black', marker='o', zorder=5)
+# halo_radius = marker_radius
+# halo = Circle((angle, halo_radius), radius=0.009, color='white', alpha=0.7, zorder=4)
+# ax.add_patch(halo)
+ax.scatter(angle, marker_radius, s=marker_size, color='#7E2A2A', marker='o', zorder=5)
 
 first_sunday = 5
 sundays = [(first_sunday + i * 7) for i in range(52)]
